@@ -28,7 +28,7 @@ We operate under the paradigm of **"Reality-as-Code,"** treating high-energy phy
 
 ## Technical Infrastructure
 *   **Simulation Engine**: `openwave` for high-throughput topological energy modeling.
-*   **Command & Control**: `Overseer.py` utilizing lock-free polling for real-time adjustments.
+*   **Command & Control**: `Arena_Orchestrator` utilizing asynchronous lattice-locking protocols for real-time field adjustments.
 *   **Visual Logic**: Integrated `uiverse-io/galaxy` design primitives for audit-ready dashboards.
 
 ## Research Updates
