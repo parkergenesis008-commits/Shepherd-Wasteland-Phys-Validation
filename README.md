@@ -6,14 +6,18 @@ The central laboratory for experimental validation and theoretical modeling of t
 We operate under the paradigm of **"Reality-as-Code,"** treating high-energy physics experiments not just as academic pursuit, but as the foundational logic governing the *Wasteland* world-building.
 
 ## Live Experimental Audit Dashboard
-```mermaid
-graph TD
-    A[Kagome Rectifier] -- 3% Strain --> B(Topological Energy Harvest)
-    C[2.812 GHz RF Pulse] -- Phase Control --> D(Torsion Coherence)
-    B --> E{System Status: STABLE}
-    D --> E
-    E --> F[Gravity Drift: -0.124 mg]
-    E --> G[Coherence: 94.2%]
+```text
+### Live Gravity Drift (mg) - Last 24H
+ 0.0  +--------------------------------+
+      |        *                       |
+-0.05 +      *   *                     |
+      |     *     *       *            |
+-0.10 +    *       *     * *           |
+      |   *         *   *   *          |
+-0.15 +  *           * *     *         |
+      | *             *       *        |
+-0.20 +--------------------------------+
+      0 2 4 6 8 10 12 14 16 18 20 22 24 (h)
 ```
 
 ## Core Research Pillars
